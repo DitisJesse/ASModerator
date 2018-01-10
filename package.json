@@ -1,0 +1,8 @@
+{
+  "name": "asmoderator",
+  "version": "1.0.0",
+  "author":"DitisJesse",
+  "dependencies": {
+    "discord.js": "^11.2.1"
+  }
+}
